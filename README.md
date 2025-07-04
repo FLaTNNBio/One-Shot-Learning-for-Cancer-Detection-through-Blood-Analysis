@@ -1,4 +1,4 @@
-# One-Shot-Learning-for-Cancer-Detection-through-Blood-Analysis
+# One Shot Learning for Cancer Detection through Blood Analysis
 <p><strong>Autrice:</strong> Rosaria Leone</p>
 
 <h2>Abstract</h2>
