@@ -17,11 +17,11 @@ L'approccio proposto supera i limiti delle biopsie liquide tradizionali, unendo 
 <h2>Struttura del Progetto</h2>
 <ul>
   <li><strong>main.py</strong>: Implementazione principale della rete neurale siamese per classificazione multi-classe su dati oncologici.</li>
-  <li><strong>One_vs_n-1.py</strong>: Classificazione di tipi di cancro usando modelli siamesi, inclusa gestione dataset e valutazione.</li>
+  <li><strong>One_vs_n-1.py</strong>: Rimozione iterativa di ogni classe dal dataset di Train e di Test.</li>
   <li><strong>fine_tuning.py</strong>: Tuning e addestramento del modello branch con ottimizzazione degli iperparametri.</li>
-  <li><strong>test_oneshot.py</strong>: Esperimenti one-shot e k-shot su dataset multi-classe.</li>
+  <li><strong>test_oneshot.py</strong>: Rimozione iterativa di ogni classe dal dataset di Train.</li>
   <li><strong>utility.py</strong>: Funzioni di supporto per costruzione modelli, metriche (accuratezza/sensibilità/specificità), visualizzazione e test.</li>
-  <li><strong>Acc_Sen_Spe_AUC.py</strong>: Calcolo delle metriche di performance (sensibilità, specificità, AUC) specifico per il contesto clinico-tumorale.</li>
+  <li><strong>Acc_Sen_Spe_AUC.py</strong>: Calcolo delle metriche di performance (sensibilità, specificità, AUC) specifico per il contesto di classificazione binaria.</li>
   <li><strong>preprocessing.py</strong>: Preprocessing dati: lettura, pulizia, encoding, imputazione e scaling di dataset Excel.</li>
   <li><strong>testgpu.py</strong>: Verifica disponibilità GPU per TensorFlow.</li>
   <li><strong>Data.xlsx</strong>: Dataset biomarcatori e dati clinici pazienti.</li>
@@ -84,9 +84,7 @@ L'approccio proposto supera i limiti delle biopsie liquide tradizionali, unendo 
   <li>Grafici di performance e confusion matrix generati in automatico.</li>
 </ul>
 
-<h2>Licenza</h2>
-<p>Specificare qui la licenza (MIT, GPL, etc) oppure lasciare per default “Proprietario”.</p>
 
 <h2>Contatti e Contributi</h2>
 <p>Per contributi, segnalazioni o suggerimenti, aprire una issue o inviare una pull request.<br>
-Autrice: Rosaria Leone – <i>inserire mail/LinkedIn se desiderato</i></p>
+Autrice: Rosaria Leone – <i>rosarialeone500@gmail.com/https://www.linkedin.com/in/rosaria-leone/</i></p>
