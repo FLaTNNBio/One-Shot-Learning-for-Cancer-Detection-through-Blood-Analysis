@@ -1,0 +1,47 @@
+[
+    {
+        "Classe_rimossa": "Breast",
+        "OneShot_k1_Accuracy": 25.274725274725274,
+        "KShot_k5_Accuracy": 65.93406593406593
+    },
+    {
+        "Classe_rimossa": "Colorectum",
+        "OneShot_k1_Accuracy": 26.373626373626376,
+        "KShot_k5_Accuracy": 68.4065934065934
+    },
+    {
+        "Classe_rimossa": "Esophagus",
+        "OneShot_k1_Accuracy": 42.032967032967036,
+        "KShot_k5_Accuracy": 68.95604395604396
+    },
+    {
+        "Classe_rimossa": "Liver",
+        "OneShot_k1_Accuracy": 45.05494505494506,
+        "KShot_k5_Accuracy": 74.17582417582418
+    },
+    {
+        "Classe_rimossa": "Lung",
+        "OneShot_k1_Accuracy": 43.13186813186813,
+        "KShot_k5_Accuracy": 70.32967032967034
+    },
+    {
+        "Classe_rimossa": "Normal",
+        "OneShot_k1_Accuracy": 25.274725274725274,
+        "KShot_k5_Accuracy": 65.10989010989012
+    },
+    {
+        "Classe_rimossa": "Ovary",
+        "OneShot_k1_Accuracy": 42.857142857142854,
+        "KShot_k5_Accuracy": 74.45054945054946
+    },
+    {
+        "Classe_rimossa": "Pancreas",
+        "OneShot_k1_Accuracy": 46.7032967032967,
+        "KShot_k5_Accuracy": 71.42857142857143
+    },
+    {
+        "Classe_rimossa": "Stomach",
+        "OneShot_k1_Accuracy": 32.142857142857146,
+        "KShot_k5_Accuracy": 68.68131868131869
+    }
+]

@@ -1,0 +1,251 @@
+[
+    {
+        "Classe_target": "Breast",
+        "Totale_campioni": 42,
+        "Distribuzione": [
+            {
+                "classe": "Normal",
+                "conteggio": 16,
+                "percentuale": 38.1
+            },
+            {
+                "classe": "Lung",
+                "conteggio": 13,
+                "percentuale": 30.95
+            },
+            {
+                "classe": "Colorectum",
+                "conteggio": 7,
+                "percentuale": 16.67
+            },
+            {
+                "classe": "Pancreas",
+                "conteggio": 2,
+                "percentuale": 4.76
+            },
+            {
+                "classe": "Stomach",
+                "conteggio": 2,
+                "percentuale": 4.76
+            },
+            {
+                "classe": "Esophagus",
+                "conteggio": 1,
+                "percentuale": 2.38
+            },
+            {
+                "classe": "Ovary",
+                "conteggio": 1,
+                "percentuale": 2.38
+            }
+        ],
+        "Normal_percentage": 38.1,
+        "Non_normal_percentage": 61.9
+    },
+    {
+        "Classe_target": "Colorectum",
+        "Totale_campioni": 78,
+        "Distribuzione": [
+            {
+                "classe": "Pancreas",
+                "conteggio": 18,
+                "percentuale": 23.08
+            },
+            {
+                "classe": "Esophagus",
+                "conteggio": 17,
+                "percentuale": 21.79
+            },
+            {
+                "classe": "Lung",
+                "conteggio": 16,
+                "percentuale": 20.51
+            },
+            {
+                "classe": "Breast",
+                "conteggio": 14,
+                "percentuale": 17.95
+            },
+            {
+                "classe": "Liver",
+                "conteggio": 7,
+                "percentuale": 8.97
+            },
+            {
+                "classe": "Normal",
+                "conteggio": 5,
+                "percentuale": 6.41
+            },
+            {
+                "classe": "Ovary",
+                "conteggio": 1,
+                "percentuale": 1.28
+            }
+        ],
+        "Normal_percentage": 6.41,
+        "Non_normal_percentage": 93.59
+    },
+    {
+        "Classe_target": "Esophagus",
+        "Totale_campioni": 9,
+        "Distribuzione": [
+            {
+                "classe": "Stomach",
+                "conteggio": 6,
+                "percentuale": 66.67
+            },
+            {
+                "classe": "Liver",
+                "conteggio": 1,
+                "percentuale": 11.11
+            },
+            {
+                "classe": "Breast",
+                "conteggio": 1,
+                "percentuale": 11.11
+            },
+            {
+                "classe": "Normal",
+                "conteggio": 1,
+                "percentuale": 11.11
+            }
+        ],
+        "Normal_percentage": 11.11,
+        "Non_normal_percentage": 88.89
+    },
+    {
+        "Classe_target": "Liver",
+        "Totale_campioni": 9,
+        "Distribuzione": [
+            {
+                "classe": "Esophagus",
+                "conteggio": 4,
+                "percentuale": 44.44
+            },
+            {
+                "classe": "Colorectum",
+                "conteggio": 2,
+                "percentuale": 22.22
+            },
+            {
+                "classe": "Lung",
+                "conteggio": 2,
+                "percentuale": 22.22
+            },
+            {
+                "classe": "Ovary",
+                "conteggio": 1,
+                "percentuale": 11.11
+            }
+        ],
+        "Normal_percentage": 0.0,
+        "Non_normal_percentage": 100.0
+    },
+    {
+        "Classe_target": "Lung",
+        "Totale_campioni": 21,
+        "Distribuzione": [
+            {
+                "classe": "Esophagus",
+                "conteggio": 8,
+                "percentuale": 38.1
+            },
+            {
+                "classe": "Breast",
+                "conteggio": 6,
+                "percentuale": 28.57
+            },
+            {
+                "classe": "Ovary",
+                "conteggio": 3,
+                "percentuale": 14.29
+            },
+            {
+                "classe": "Stomach",
+                "conteggio": 2,
+                "percentuale": 9.52
+            },
+            {
+                "classe": "Liver",
+                "conteggio": 2,
+                "percentuale": 9.52
+            }
+        ],
+        "Normal_percentage": 0.0,
+        "Non_normal_percentage": 100.0
+    },
+    {
+        "Classe_target": "Ovary",
+        "Totale_campioni": 11,
+        "Distribuzione": [
+            {
+                "classe": "Lung",
+                "conteggio": 7,
+                "percentuale": 63.64
+            },
+            {
+                "classe": "Breast",
+                "conteggio": 3,
+                "percentuale": 27.27
+            },
+            {
+                "classe": "Colorectum",
+                "conteggio": 1,
+                "percentuale": 9.09
+            }
+        ],
+        "Normal_percentage": 0.0,
+        "Non_normal_percentage": 100.0
+    },
+    {
+        "Classe_target": "Pancreas",
+        "Totale_campioni": 18,
+        "Distribuzione": [
+            {
+                "classe": "Normal",
+                "conteggio": 9,
+                "percentuale": 50.0
+            },
+            {
+                "classe": "Colorectum",
+                "conteggio": 8,
+                "percentuale": 44.44
+            },
+            {
+                "classe": "Lung",
+                "conteggio": 1,
+                "percentuale": 5.56
+            }
+        ],
+        "Normal_percentage": 50.0,
+        "Non_normal_percentage": 50.0
+    },
+    {
+        "Classe_target": "Stomach",
+        "Totale_campioni": 13,
+        "Distribuzione": [
+            {
+                "classe": "Esophagus",
+                "conteggio": 6,
+                "percentuale": 46.15
+            },
+            {
+                "classe": "Lung",
+                "conteggio": 3,
+                "percentuale": 23.08
+            },
+            {
+                "classe": "Breast",
+                "conteggio": 3,
+                "percentuale": 23.08
+            },
+            {
+                "classe": "Liver",
+                "conteggio": 1,
+                "percentuale": 7.69
+            }
+        ],
+        "Normal_percentage": 0.0,
+        "Non_normal_percentage": 100.0
+    }
+]

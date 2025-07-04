@@ -1,0 +1,11 @@
+            Precision  Sensitivity (Recall)  Specificity  F1-score  Support
+Classe                                                                     
+Breast           0.52                  0.69         0.92      0.59       42
+Colorectum       0.91                  0.74         0.98      0.82       78
+Esophagus        0.67                  0.67         0.99      0.67        9
+Liver            0.60                  0.67         0.99      0.63        9
+Lung             0.71                  0.57         0.99      0.63       21
+Normal           0.93                  0.93         0.94      0.93      163
+Ovary            0.82                  0.82         0.99      0.82       11
+Pancreas         0.70                  0.89         0.98      0.78       18
+Stomach          0.80                  0.62         0.99      0.70       13

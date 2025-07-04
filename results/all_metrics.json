@@ -1,0 +1,8 @@
+{
+    "branch_model": {
+        "test_accuracy": 0.7280219793319702
+    },
+    "siamese_model": {
+        "one_shot_accuracy": 81.31868131868131
+    }
+}

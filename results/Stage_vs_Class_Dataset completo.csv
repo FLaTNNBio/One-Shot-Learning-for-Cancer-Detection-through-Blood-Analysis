@@ -1,0 +1,10 @@
+Classe,0,1,2,3,Totale
+Breast,0,32,114,63,209
+Colorectum,0,77,191,120,388
+Esophagus,0,5,29,11,45
+Liver,0,5,19,20,44
+Lung,0,46,27,31,104
+Normal,812,0,0,0,812
+Ovary,0,9,4,41,54
+Pancreas,0,4,83,6,93
+Stomach,0,21,30,17,68

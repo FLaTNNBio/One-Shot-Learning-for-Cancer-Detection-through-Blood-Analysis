@@ -1,0 +1,25 @@
+Confusion Matrix Binaria (Normal vs Non Normal):
+                     Predetto Normal (F)  Predetto Non Normal (T)
+True Normal (F)              152                     11          
+True Non Normal (T)           12                    189          
+
+Sensitivity (TP / (TP + FN)):   0.9403 (TP=189, FN=12)
+Specificity (TN / (TN + FP)):   0.9325 (TN=152, FP=11)
+
+Confusion Matrix aggregata per AJCC Stage:
+Stadio 1.0 -> Sensitivity: 0.9250  
+Stadio 2.0 -> Sensitivity: 0.9412  
+Stadio 3.0 -> Sensitivity: 0.9492  
+
+Metriche per classe:
+Classe breast       -> Sensitivity: 0.6905  , Specificity: 0.9161  
+Classe colorectum   -> Sensitivity: 0.7436  , Specificity: 0.9790  
+Classe esophagus    -> Sensitivity: 0.6667  , Specificity: 0.9915  
+Classe liver        -> Sensitivity: 0.6667  , Specificity: 0.9887  
+Classe lung         -> Sensitivity: 0.5714  , Specificity: 0.9854  
+Classe ovary        -> Sensitivity: 0.8182  , Specificity: 0.9943  
+Classe pancreas     -> Sensitivity: 0.8889  , Specificity: 0.9798  
+Classe stomach      -> Sensitivity: 0.6154  , Specificity: 0.9943  
+
+Media Sensitivity:  0.7077  , Media Specificity:  0.9786  
+Mediana Sensitivity: 0.6786  , Mediana Specificity: 0.9870  
